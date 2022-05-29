@@ -1,0 +1,12 @@
+D:\programs\Pizza Sifarisi\Pizza Sifarisi\bin\Debug\Pizza Sifarisi.exe.config
+D:\programs\Pizza Sifarisi\Pizza Sifarisi\bin\Debug\Pizza Sifarisi.exe
+D:\programs\Pizza Sifarisi\Pizza Sifarisi\bin\Debug\Pizza Sifarisi.pdb
+D:\programs\Pizza Sifarisi\Pizza Sifarisi\obj\Debug\Pizza Sifarisi.csproj.AssemblyReference.cache
+D:\programs\Pizza Sifarisi\Pizza Sifarisi\obj\Debug\Pizza Sifarisi.csproj.SuggestedBindingRedirects.cache
+D:\programs\Pizza Sifarisi\Pizza Sifarisi\obj\Debug\Pizza_Sifarisi.Pizza_sifarisi.resources
+D:\programs\Pizza Sifarisi\Pizza Sifarisi\obj\Debug\Pizza_Sifarisi.Properties.Resources.resources
+D:\programs\Pizza Sifarisi\Pizza Sifarisi\obj\Debug\Pizza Sifarisi.csproj.GenerateResource.cache
+D:\programs\Pizza Sifarisi\Pizza Sifarisi\obj\Debug\Pizza Sifarisi.csproj.CoreCompileInputs.cache
+D:\programs\Pizza Sifarisi\Pizza Sifarisi\obj\Debug\Pizza Sifarisi.exe
+D:\programs\Pizza Sifarisi\Pizza Sifarisi\obj\Debug\Pizza Sifarisi.pdb
+D:\programs\Pizza Sifarisi\Pizza Sifarisi\obj\Debug\Pizza_Sifarisi.Form2.resources
